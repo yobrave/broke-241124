@@ -1,0 +1,1 @@
+Disk full: your node_modules ate the free space and the logs that would have said why. Delete something you forgot you owned, then retry.
